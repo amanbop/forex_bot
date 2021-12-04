@@ -1,0 +1,10 @@
+   Threadlib library
+   Copyright 2011 Forex Capital Markets LLC
+
+   This product includes software developed at
+   Forex Capital Markets LLC (http://www.fxcm.com/).
+
+   This software contains code developed by Richard Dengler
+   (http://home.arcor.de/rdengler/).
+
+

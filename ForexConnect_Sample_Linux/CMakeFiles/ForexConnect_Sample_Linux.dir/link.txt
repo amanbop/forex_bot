@@ -1,0 +1,1 @@
+/usr/bin/c++     -fPIC CMakeFiles/ForexConnect_Sample_Linux.dir/source/stdafx.cpp.o CMakeFiles/ForexConnect_Sample_Linux.dir/source/sample.cpp.o  -o ForexConnect_Sample_Linux -rdynamic -L/home/adminuser/Documents/forex_development/ForexConnect_Sample_Linux/lib -lorder2go2 -Wl,-rpath,/home/adminuser/Documents/forex_development/ForexConnect_Sample_Linux/lib 

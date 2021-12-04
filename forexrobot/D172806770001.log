@@ -1,0 +1,1091 @@
+Status: Connecting
+Status: Connected
+Time frame id=t1 unit=0 size=1
+
+Time frame id=m1 unit=1 size=1
+
+Time frame id=m5 unit=1 size=5
+
+Time frame id=m15 unit=1 size=15
+
+Time frame id=m30 unit=1 size=30
+
+Time frame id=H1 unit=2 size=1
+
+Time frame id=H2 unit=2 size=2
+
+Time frame id=H3 unit=2 size=3
+
+Time frame id=H4 unit=2 size=4
+
+Time frame id=H6 unit=2 size=6
+
+Time frame id=H8 unit=2 size=8
+
+Time frame id=D1 unit=3 size=1
+
+Time frame id=W1 unit=4 size=1
+
+Time frame id=M1 unit=5 size=1
+
+Generic table
+0 OfferID 2
+1 Instrument 2
+2 QuoteID 2
+3 Bid 1
+4 Ask 1
+5 Low 1
+6 High 1
+7 Volume 0
+8 Time 3
+9 BidTradable 2
+10 AskTradable 2
+11 SellInterest 1
+12 BuyInterest 1
+13 ContractCurrency 2
+14 Digits 0
+15 PointSize 1
+16 SubscriptionStatus 2
+17 InstrumentType 0
+18 ContractMultiplier 1
+19 TradingStatus 2
+20 ValueDate 2
+OfferID=1 Valid=true Instrument=EUR/USD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326543 Valid=true Bid=1.12531 Valid=true Ask=1.12536 Valid=true Low=1.12377 Valid=true High=1.12661 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.21 Valid=true BuyInterest=-0.48 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=2 Valid=true Instrument=USD/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326546 Valid=true Bid=123.539 Valid=true Ask=123.543 Valid=true Low=123.342 Valid=true High=123.602 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.39 Valid=true BuyInterest=0.15 Valid=true ContractCurrency=USD Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=3 Valid=true Instrument=GBP/USD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326548 Valid=true Bid=1.56379 Valid=true Ask=1.56384 Valid=true Low=1.56353 Valid=true High=1.56532 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.51 Valid=true BuyInterest=0.24 Valid=true ContractCurrency=GBP Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=4 Valid=true Instrument=USD/CHF Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326549 Valid=true Bid=0.93096 Valid=true Ask=0.93104 Valid=true Low=0.93039 Valid=true High=0.93279 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-1.23 Valid=true BuyInterest=0.54 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=5 Valid=true Instrument=EUR/CHF Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326550 Valid=true Bid=1.04768 Valid=true Ask=1.04778 Valid=true Low=1.04725 Valid=true High=1.04899 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.72 Valid=true BuyInterest=0.3 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=6 Valid=true Instrument=AUD/USD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326552 Valid=true Bid=0.77215 Valid=true Ask=0.77218 Valid=true Low=0.77161 Valid=true High=0.77578 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-1.53 Valid=true BuyInterest=0.69 Valid=true ContractCurrency=AUD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=7 Valid=true Instrument=USD/CAD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326554 Valid=true Bid=1.22971 Valid=true Ask=1.22976 Valid=true Low=1.22859 Valid=true High=1.23015 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.27 Valid=true BuyInterest=-0.66 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=8 Valid=true Instrument=NZD/USD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326556 Valid=true Bid=0.69679 Valid=true Ask=0.69687 Valid=true Low=0.6964 Valid=true High=0.69928 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-2.88 Valid=true BuyInterest=1.32 Valid=true ContractCurrency=NZD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=9 Valid=true Instrument=EUR/GBP Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326557 Valid=true Bid=0.71957 Valid=true Ask=0.71964 Valid=true Low=0.71829 Valid=true High=0.72016 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.45 Valid=true BuyInterest=-0.99 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=10 Valid=true Instrument=EUR/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326558 Valid=true Bid=139.023 Valid=true Ask=139.03 Valid=true Low=138.682 Valid=true High=139.12 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.06 Valid=true BuyInterest=-0.21 Valid=true ContractCurrency=EUR Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=11 Valid=true Instrument=GBP/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326560 Valid=true Bid=193.186 Valid=true Ask=193.201 Valid=true Low=192.962 Valid=true High=193.332 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-1.11 Valid=true BuyInterest=0.48 Valid=true ContractCurrency=GBP Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=12 Valid=true Instrument=CHF/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326561 Valid=true Bid=132.685 Valid=true Ask=132.705 Valid=true Low=132.272 Valid=true High=132.791 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.42 Valid=true BuyInterest=-1.08 Valid=true ContractCurrency=CHF Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=13 Valid=true Instrument=GBP/CHF Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326562 Valid=true Bid=1.45585 Valid=true Ask=1.45606 Valid=true Low=1.45552 Valid=true High=1.45957 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-2.52 Valid=true BuyInterest=1.05 Valid=true ContractCurrency=GBP Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=14 Valid=true Instrument=EUR/AUD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326563 Valid=true Bid=1.45732 Valid=true Ask=1.45743 Valid=true Low=1.44965 Valid=true High=1.45853 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=1.29 Valid=true BuyInterest=-2.82 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=15 Valid=true Instrument=EUR/CAD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326564 Valid=true Bid=1.3838 Valid=true Ask=1.38396 Valid=true Low=1.38166 Valid=true High=1.38513 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.6 Valid=true BuyInterest=-1.38 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=16 Valid=true Instrument=AUD/CAD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326565 Valid=true Bid=0.94953 Valid=true Ask=0.94963 Valid=true Low=0.94903 Valid=true High=0.95371 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-1.05 Valid=true BuyInterest=0.48 Valid=true ContractCurrency=AUD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=17 Valid=true Instrument=AUD/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326566 Valid=true Bid=95.392 Valid=true Ask=95.396 Valid=true Low=95.26 Valid=true High=95.723 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-1.86 Valid=true BuyInterest=0.87 Valid=true ContractCurrency=AUD Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=18 Valid=true Instrument=CAD/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326567 Valid=true Bid=100.455 Valid=true Ask=100.464 Valid=true Low=100.323 Valid=true High=100.519 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.81 Valid=true BuyInterest=0.33 Valid=true ContractCurrency=CAD Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=19 Valid=true Instrument=NZD/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326568 Valid=true Bid=86.086 Valid=true Ask=86.095 Valid=true Low=85.973 Valid=true High=86.284 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-3.03 Valid=true BuyInterest=1.38 Valid=true ContractCurrency=NZD Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=20 Valid=true Instrument=GBP/CAD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326569 Valid=true Bid=1.923 Valid=true Ask=1.92321 Valid=true Low=1.92233 Valid=true High=1.92456 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.27 Valid=true BuyInterest=-0.66 Valid=true ContractCurrency=GBP Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=21 Valid=true Instrument=GBP/NZD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326570 Valid=true Bid=2.24398 Valid=true Ask=2.24435 Valid=true Low=2.2379 Valid=true High=2.24593 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=2.58 Valid=true BuyInterest=-5.67 Valid=true ContractCurrency=GBP Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=22 Valid=true Instrument=GBP/AUD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326571 Valid=true Bid=2.02514 Valid=true Ask=2.0253 Valid=true Low=2.01704 Valid=true High=2.02669 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=1.17 Valid=true BuyInterest=-2.64 Valid=true ContractCurrency=GBP Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=28 Valid=true Instrument=AUD/NZD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326572 Valid=true Bid=1.10805 Valid=true Ask=1.10818 Valid=true Low=1.10727 Valid=true High=1.11085 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.63 Valid=true BuyInterest=-1.5 Valid=true ContractCurrency=AUD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=30 Valid=true Instrument=USD/SEK Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326573 Valid=true Bid=8.173 Valid=true Ask=8.17505 Valid=true Low=8.16599 Valid=true High=8.19142 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.88 Valid=true BuyInterest=0.24 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=32 Valid=true Instrument=EUR/SEK Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326574 Valid=true Bid=9.19708 Valid=true Ask=9.20013 Valid=true Low=9.18878 Valid=true High=9.21509 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.52 Valid=true BuyInterest=0.12 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=36 Valid=true Instrument=EUR/NOK Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326578 Valid=true Bid=8.73158 Valid=true Ask=8.73714 Valid=true Low=8.72007 Valid=true High=8.749 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.72 Valid=true BuyInterest=-2.22 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=37 Valid=true Instrument=USD/NOK Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326579 Valid=true Bid=7.7593 Valid=true Ask=7.7637 Valid=true Low=7.7551 Valid=true High=7.7725 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=0.51 Valid=true BuyInterest=-1.5 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=38 Valid=true Instrument=USD/MXN Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326580 Valid=true Bid=15.3933 Valid=true Ask=15.3971 Valid=true Low=15.3775 Valid=true High=15.4016 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=1.17 Valid=true BuyInterest=-4.14 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=39 Valid=true Instrument=AUD/CHF Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326581 Valid=true Bid=0.71885 Valid=true Ask=0.71897 Valid=true Low=0.71836 Valid=true High=0.72324 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-2.55 Valid=true BuyInterest=1.2 Valid=true ContractCurrency=AUD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=40 Valid=true Instrument=EUR/NZD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326582 Valid=true Bid=1.6148 Valid=true Ask=1.61505 Valid=true Low=1.60848 Valid=true High=1.61679 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=2.25 Valid=true BuyInterest=-4.89 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=47 Valid=true Instrument=USD/ZAR Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326584 Valid=true Bid=12.3957 Valid=true Ask=12.4007 Valid=true Low=12.3585 Valid=true High=12.4015 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=3.33 Valid=true BuyInterest=-7.38 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=50 Valid=true Instrument=USD/HKD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137325970 Valid=true Bid=7.7524 Valid=true Ask=7.75245 Valid=true Low=7.75157 Valid=true High=7.75289 Valid=true Volume=1 Valid=true Time=06/17/2015 05:44:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.06 Valid=true BuyInterest=-0.18 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=71 Valid=true Instrument=ZAR/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326534 Valid=true Bid=9.962 Valid=true Ask=9.967 Valid=true Low=9.923 Valid=true High=10.013 Valid=true Volume=0 Valid=true Time=06/17/2015 05:56:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-0.63 Valid=true BuyInterest=0.27 Valid=true ContractCurrency=ZAR Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=83 Valid=true Instrument=USD/TRY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326585 Valid=true Bid=2.73197 Valid=true Ask=2.73285 Valid=true Low=2.73085 Valid=true High=2.73803 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=3.57 Valid=true BuyInterest=-15.03 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=87 Valid=true Instrument=EUR/TRY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326586 Valid=true Bid=3.07468 Valid=true Ask=3.07631 Valid=true Low=3.07121 Valid=true High=3.08392 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=4.17 Valid=true BuyInterest=-18.54 Valid=true ContractCurrency=EUR Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=89 Valid=true Instrument=NZD/CHF Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326587 Valid=true Bid=0.64869 Valid=true Ask=0.64885 Valid=true Low=0.648 Valid=true High=0.65227 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-3.6 Valid=true BuyInterest=1.59 Valid=true ContractCurrency=NZD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=90 Valid=true Instrument=CAD/CHF Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326588 Valid=true Bid=0.757 Valid=true Ask=0.75714 Valid=true Low=0.75648 Valid=true High=0.75908 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-1.56 Valid=true BuyInterest=0.69 Valid=true ContractCurrency=CAD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=91 Valid=true Instrument=NZD/CAD Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326589 Valid=true Bid=0.85688 Valid=true Ask=0.85704 Valid=true Low=0.85633 Valid=true High=0.85955 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-2.37 Valid=true BuyInterest=1.02 Valid=true ContractCurrency=NZD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=98 Valid=true Instrument=TRY/JPY Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326590 Valid=true Bid=45.194 Valid=true Ask=45.215 Valid=true Low=45.019 Valid=true High=45.247 Valid=true Volume=0 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=-5.46 Valid=true BuyInterest=1.62 Valid=true ContractCurrency=TRY Valid=true Digits=3 Valid=true PointSize=0.01 Valid=true SubscriptionStatus=D Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate=06192015 Valid=true 
+OfferID=105 Valid=true Instrument=USD/CNH Valid=true QuoteID=FXCM_U100D3_DESK_00000000001137326591 Valid=true Bid=6.21016 Valid=true Ask=6.21036 Valid=true Low=6.20709 Valid=true High=6.21213 Valid=true Volume=1 Valid=true Time=06/17/2015 05:57:00 Valid=true BidTradable=T Valid=true AskTradable=T Valid=true SellInterest=1.32 Valid=true BuyInterest=-5.56 Valid=true ContractCurrency=USD Valid=true Digits=5 Valid=true PointSize=0.0001 Valid=true SubscriptionStatus=T Valid=true InstrumentType=1 Valid=true ContractMultiplier=1 Valid=true TradingStatus=O Valid=true ValueDate= Valid=true 
+Offers Table
+EUR/USD OfferID=1 Bid=1.125310 Ask=1.125360 Low=1.123770 High=1.126610 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326543 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-0.480000 SellInterest=0.210000
+USD/JPY OfferID=2 Bid=123.539000 Ask=123.543000 Low=123.342000 High=123.602000 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326546 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=3 PointSize=0.010000 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.150000 SellInterest=-0.390000
+GBP/USD OfferID=3 Bid=1.563790 Ask=1.563840 Low=1.563530 High=1.565320 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326548 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=GBP Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.240000 SellInterest=-0.510000
+USD/CHF OfferID=4 Bid=0.930960 Ask=0.931040 Low=0.930390 High=0.932790 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326549 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.540000 SellInterest=-1.230000
+EUR/CHF OfferID=5 Bid=1.047680 Ask=1.047780 Low=1.047250 High=1.048990 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326550 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.300000 SellInterest=-0.720000
+AUD/USD OfferID=6 Bid=0.772150 Ask=0.772180 Low=0.771610 High=0.775780 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326552 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.690000 SellInterest=-1.530000
+USD/CAD OfferID=7 Bid=1.229710 Ask=1.229760 Low=1.228590 High=1.230150 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326554 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-0.660000 SellInterest=0.270000
+NZD/USD OfferID=8 Bid=0.696790 Ask=0.696870 Low=0.696400 High=0.699280 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326556 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=NZD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=1.320000 SellInterest=-2.880000
+EUR/GBP OfferID=9 Bid=0.719570 Ask=0.719640 Low=0.718290 High=0.720160 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326557 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-0.990000 SellInterest=0.450000
+EUR/JPY OfferID=10 Bid=139.023000 Ask=139.030000 Low=138.682000 High=139.120000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326558 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=3 PointSize=0.010000 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-0.210000 SellInterest=0.060000
+GBP/JPY OfferID=11 Bid=193.186000 Ask=193.201000 Low=192.962000 High=193.332000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326560 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=GBP Digits=3 PointSize=0.010000 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.480000 SellInterest=-1.110000
+CHF/JPY OfferID=12 Bid=132.685000 Ask=132.705000 Low=132.272000 High=132.791000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326561 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=CHF Digits=3 PointSize=0.010000 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-1.080000 SellInterest=0.420000
+GBP/CHF OfferID=13 Bid=1.455850 Ask=1.456060 Low=1.455520 High=1.459570 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326562 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=GBP Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=1.050000 SellInterest=-2.520000
+EUR/AUD OfferID=14 Bid=1.457320 Ask=1.457430 Low=1.449650 High=1.458530 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326563 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-2.820000 SellInterest=1.290000
+EUR/CAD OfferID=15 Bid=1.383800 Ask=1.383960 Low=1.381660 High=1.385130 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326564 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-1.380000 SellInterest=0.600000
+AUD/CAD OfferID=16 Bid=0.949530 Ask=0.949630 Low=0.949030 High=0.953710 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326565 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.480000 SellInterest=-1.050000
+AUD/JPY OfferID=17 Bid=95.392000 Ask=95.396000 Low=95.260000 High=95.723000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326566 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=3 PointSize=0.010000 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.870000 SellInterest=-1.860000
+CAD/JPY OfferID=18 Bid=100.455000 Ask=100.464000 Low=100.323000 High=100.519000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326567 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=CAD Digits=3 PointSize=0.010000 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.330000 SellInterest=-0.810000
+NZD/JPY OfferID=19 Bid=86.086000 Ask=86.095000 Low=85.973000 High=86.284000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326568 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=NZD Digits=3 PointSize=0.010000 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=1.380000 SellInterest=-3.030000
+GBP/CAD OfferID=20 Bid=1.923000 Ask=1.923210 Low=1.922330 High=1.924560 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326569 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=GBP Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-0.660000 SellInterest=0.270000
+GBP/NZD OfferID=21 Bid=2.243980 Ask=2.244350 Low=2.237900 High=2.245930 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326570 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=GBP Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-5.670000 SellInterest=2.580000
+GBP/AUD OfferID=22 Bid=2.025140 Ask=2.025300 Low=2.017040 High=2.026690 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326571 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=GBP Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-2.640000 SellInterest=1.170000
+AUD/NZD OfferID=28 Bid=1.108050 Ask=1.108180 Low=1.107270 High=1.110850 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326572 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-1.500000 SellInterest=0.630000
+USD/SEK OfferID=30 Bid=8.173000 Ask=8.175050 Low=8.165990 High=8.191420 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326573 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.240000 SellInterest=-0.880000
+EUR/SEK OfferID=32 Bid=9.197080 Ask=9.200130 Low=9.188780 High=9.215090 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326574 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.120000 SellInterest=-0.520000
+EUR/NOK OfferID=36 Bid=8.731580 Ask=8.737140 Low=8.720070 High=8.749000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326578 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-2.220000 SellInterest=0.720000
+USD/NOK OfferID=37 Bid=7.759300 Ask=7.763700 Low=7.755100 High=7.772500 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326579 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-1.500000 SellInterest=0.510000
+USD/MXN OfferID=38 Bid=15.393280 Ask=15.397060 Low=15.377510 High=15.401590 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326580 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-4.140000 SellInterest=1.170000
+AUD/CHF OfferID=39 Bid=0.718850 Ask=0.718970 Low=0.718360 High=0.723240 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326581 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=1.200000 SellInterest=-2.550000
+EUR/NZD OfferID=40 Bid=1.614800 Ask=1.615050 Low=1.608480 High=1.616790 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326582 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-4.890000 SellInterest=2.250000
+USD/ZAR OfferID=47 Bid=12.395700 Ask=12.400730 Low=12.358500 High=12.401500 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326584 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-7.380000 SellInterest=3.330000
+USD/HKD OfferID=50 Bid=7.752400 Ask=7.752450 Low=7.751570 High=7.752890 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137325970 Time=06/17/2015 05:44:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-0.180000 SellInterest=-0.060000
+ZAR/JPY OfferID=71 Bid=9.962000 Ask=9.967000 Low=9.923000 High=10.013000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326534 Time=06/17/2015 05:56:00 BidTradable=T AskTradable=T ContractCurrency=ZAR Digits=3 PointSize=0.010000 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.270000 SellInterest=-0.630000
+USD/TRY OfferID=83 Bid=2.731970 Ask=2.732850 Low=2.730850 High=2.738030 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326585 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-15.030000 SellInterest=3.570000
+EUR/TRY OfferID=87 Bid=3.074680 Ask=3.076310 Low=3.071210 High=3.083920 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326586 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=EUR Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=-18.540000 SellInterest=4.170000
+NZD/CHF OfferID=89 Bid=0.648690 Ask=0.648850 Low=0.648000 High=0.652270 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326587 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=NZD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=1.590000 SellInterest=-3.600000
+CAD/CHF OfferID=90 Bid=0.757000 Ask=0.757140 Low=0.756480 High=0.759080 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326588 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=CAD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.690000 SellInterest=-1.560000
+NZD/CAD OfferID=91 Bid=0.856880 Ask=0.857040 Low=0.856330 High=0.859550 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326589 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=NZD Digits=5 PointSize=0.000100 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=1.020000 SellInterest=-2.370000
+TRY/JPY OfferID=98 Bid=45.194000 Ask=45.215000 Low=45.019000 High=45.247000 Volume=0 QuoteID=FXCM_U100D3_DESK_00000000001137326590 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=TRY Digits=3 PointSize=0.010000 SubscriptionStatus=D TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=1.620000 SellInterest=-5.460000
+USD/CNH OfferID=105 Bid=6.210160 Ask=6.210360 Low=6.207090 High=6.212130 Volume=1 QuoteID=FXCM_U100D3_DESK_00000000001137326591 Time=06/17/2015 05:57:00 BidTradable=T AskTradable=T ContractCurrency=USD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate= BuyInterest=-5.560000 SellInterest=1.320000
+Generic table
+0 AccountID 2
+1 AccountName 2
+2 AccountKind 2
+3 Balance 1
+4 NonTradeEquity 1
+5 M2MEquity 1
+6 UsedMargin 1
+7 UsedMargin3 1
+8 MarginCallFlag 2
+9 LastMarginCallDate 3
+10 MaintenanceType 2
+11 AmountLimit 0
+12 BaseUnitSize 0
+13 MaintenanceFlag 4
+14 ManagerAccountID 2
+15 LevarageProfileID 2
+AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true Balance=49999.4 Valid=true NonTradeEquity=0 Valid=true M2MEquity=50000 Valid=true UsedMargin=336 Valid=true UsedMargin3=336 Valid=true MarginCallFlag=N Valid=true LastMarginCallDate=12/30/1899 00:00:00 Valid=true MaintenanceType=F Valid=true AmountLimit=0 Valid=true BaseUnitSize=1000 Valid=true MaintenanceFlag=false Valid=true ManagerAccountID= Valid=true LevarageProfileID=181 Valid=true 
+Accounts Table
+AccountID=2809169 AccountName=02809169 AccountKind=32 AccountLimit=0 Balance=49999.440000 NonTradableEquity=0.000000 M2MEquity=50000.000000 UsedMargin=336.000000 UsedMargin3=336.000000 MarginCallFlag=N LastMarginCallDate=12/30/1899 00:00:00 MainteanceType=F AmountLimit=0 MaintenanceFlag=false BaseUnitSize=1000 LevarageProfileID=181 ManagerAccountID=
+System Properties:
+BASE_CRNCY USD
+BASE_CRNCY_PRECISION 2
+BASE_CRNCY_SYMBOL $
+BASE_TIME_ZONE America/New_York
+BASE_UNIT_SIZE 10000
+CHART_TIME_UTC SERVER
+COMMISSIONED_UI_ENABLED N
+COND_DIST 0.1
+COND_DIST_ENTRY 0.1
+CONNECTION_NAME PremiumDemo
+DATABASE_TYPE CFD
+DB_VERSION 3.11.3.price-feed
+END_TRADING_DAY 21:00:00
+EXT_PRICE_TERMINAL PDEMO2_PRICES
+FIRST_TICK_OPEN_PRICE_ENABLED Y
+FORCE_PASSWORD_CHANGE N
+FXMA_IB FXCM
+HCCOFFERCHBid Y
+HCCOFFERChAsk Y
+HCCOFFERFID Y
+HCDACCTUsblMr3 Y
+HCDACCTUsblMr3% Y
+HCDACCTUsdMr3 Y
+HCTOFFERChAsk Y
+HCTOFFERChBid Y
+HCTOFFERFID Y
+LIMITSTOP_SUPPORT Y
+LINKS1 CHANGE,{F91D5C83-967E-4580-B45E-D969EE69CB71},11,,,,https://secure2.fxcorporate.com/fxtr/?ib=[FXMA_IB]
+LINKS26 CHANGE,{F91D5C83-967E-4580-B45E-D969EE69CB71},11,,,,https://secure4.fxcorporate.com/fxtr/?ib=FXCMUK_HELLAS&locale=el_GR,gre
+LINKS27 HIDE,{67274F72-F432-4a81-A1D6-8703342A7D9D}
+LOCALE enu
+LOCAL_PWD_SAVE Y
+MARKET_CLS_MSG Market is closed. Trading operations are disabled.
+MARKET_OPEN Y
+MAX_RATE_DIFF 15000
+MAX_WRONG_PSWD 10
+MKT_SUM_REFRESH_RATE 60
+MKT_SUM_URL marketsummary2.fxcorporate.com
+PRICE_ARCHIVE_REQUESTS_CACHE_ENABLED Y
+PRICE_ARCHIVE_URL pricehistory.fxcorporate.com
+PWD_EXPIRY_DAYS 180
+REPORTS_URL https://fxpa.fxcorporate.com/fxpa/getreport.app/
+SERVER_TIME_UTC UTC
+SHOW_MR MMR
+SUMMSUB_SortEnabled TRUE
+SUMM_SortEnabled TRUE
+SYSTEM_TYPE Demo
+SYS_NAME FX Trading System
+SYS_VERSION 1.00.000
+THREE_LEVEL_MARGIN Y
+THRESHOLD 75000
+TP_107 N
+TP_170 N
+TP_171 Y
+TP_172 N
+TP_86 Y
+TP_88 Y
+TP_94 Y
+TRAILING_DYNAMIC Y
+TRAILING_DYNAMIC_PTS 10
+TRAILING_FLUCTUATE Y
+TRAILING_FLUCTUATE_PTS_MAX 300
+TRAILING_FLUCTUATE_PTS_MIN 10
+TRAILING_STOP_DYNAMIC Y
+TRAILING_STOP_USED Y
+SupportBatchRequest true
+LoadTradeProfilesAttempts 3
+QUERYDEPTH_h3 300
+QUERYDEPTH_h2 300
+QUERYDEPTH_5 300
+LoadTradeProfilesPeriod 60000
+QUERYDEPTH_4 300
+QUERYDEPTH_7 300
+QUERYDEPTH_6 300
+QUERYDEPTH_8 300
+QUERYDEPTH_1 300
+QUERYDEPTH_0 600
+SupportMDHistoryRequest true
+QUERYDEPTH_3 300
+QUERYDEPTH_2 300
+SupportOffersFilter true
+BatchMarketDataSnapshot true
+QUERYDEPTH_h4 300
+QUERYDEPTH_h6 300
+SupportTickVolume true
+QUERYDEPTH_h8 300
+  canCreateMarketOpenOrder = Enabled
+  canChangeMarketOpenOrder = Hidden
+  canDeleteMarketOpenOrder = Enabled
+  canCreateMarketCloseOrder = Hidden
+  canChangeMarketCloseOrder = Hidden
+  canDeleteMarketCloseOrder = Hidden
+  canCreateEntryOrder = Enabled
+  canChangeEntryOrder = Enabled
+  canDeleteEntryOrder = Enabled
+  canCreateStopLimitOrder = Hidden
+  canChangeStopLimitOrder = Hidden
+  canDeleteStopLimitOrder = Hidden
+  canRequestQuote = Enabled
+  canAcceptQuote = Enabled
+  canDeleteQuote = Enabled
+  canCreateOCO = Enabled
+  canCreateOTO = Enabled
+  canJoinToNewContingencyGroup = Enabled
+  canJoinToExistingContingencyGroup = Enabled
+  canRemoveFromContingencyGroup = Enabled
+  canChangeOfferSubscription = Enabled
+  canCreateNetCloseOrder = Enabled
+  canChangeNetCloseOrder = Hidden
+  canDeleteNetCloseOrder = Hidden
+  canCreateNetStopLimitOrder = Hidden
+  canChangeNetStopLimitOrder = Hidden
+  canDeleteNetStopLimitOrder = Hidden
+  canUseDynamicTrailingForStop = Enabled
+  canUseDynamicTrailingForLimit = Enabled
+  canUseDynamicTrailingForEntryStop = Enabled
+  canUseDynamicTrailingForEntryLimit = Enabled
+  canUseFluctuateTrailingForStop = Enabled
+  canUseFluctuateTrailingForLimit = Enabled
+  canUseFluctuateTrailingForEntryStop = Enabled
+  canUseFluctuateTrailingForEntryLimit = Enabled
+  [EUR/USD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=24.000000
+            Three level margin: MMR=24.000000; EMR=24.000000; LMR=24.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=30.000000
+            Three level margin: MMR=30.000000; EMR=30.000000; LMR=30.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [GBP/USD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=34.000000
+            Three level margin: MMR=34.000000; EMR=34.000000; LMR=34.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/CHF (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=50.000000
+            Three level margin: MMR=50.000000; EMR=50.000000; LMR=50.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/CHF (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=90.000000
+            Three level margin: MMR=90.000000; EMR=90.000000; LMR=90.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [AUD/USD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=27.000000
+            Three level margin: MMR=27.000000; EMR=27.000000; LMR=27.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/CAD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=20.000000
+            Three level margin: MMR=20.000000; EMR=20.000000; LMR=20.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [NZD/USD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=18.000000
+            Three level margin: MMR=18.000000; EMR=18.000000; LMR=18.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/GBP (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=24.000000
+            Three level margin: MMR=24.000000; EMR=24.000000; LMR=24.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=36.000000
+            Three level margin: MMR=36.000000; EMR=36.000000; LMR=36.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [GBP/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=51.000000
+            Three level margin: MMR=51.000000; EMR=51.000000; LMR=51.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [CHF/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [GBP/CHF (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/AUD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/CAD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [AUD/CAD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [AUD/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=27.000000
+            Three level margin: MMR=27.000000; EMR=27.000000; LMR=27.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [CAD/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [NZD/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [GBP/CAD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [GBP/NZD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [GBP/AUD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [AUD/NZD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/SEK (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/SEK (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/NOK (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/NOK (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/MXN (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [AUD/CHF (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/NZD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/ZAR (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/HKD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [ZAR/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/TRY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [EUR/TRY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [NZD/CHF (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [CAD/CHF (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [NZD/CAD (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [TRY/JPY (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=0.000000
+            Single level margin: MMR=0.000000; EMR=0.000000; LMR=0.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+  [USD/CNH (Market Open)] Cond.Dist: ST=0; LT=0; SE=0; LE=0
+            Cond.Dist entry stop=0; entry limit=0
+            Quantity: Min=1000; Max=50000000. Base unit size=1000; MMR=50.000000
+            Three level margin: MMR=50.000000; EMR=50.000000; LMR=50.000000
+            Trailing stop: Stop=10-300; Limit=10-300
+            Trailing stop: Entry Stop=10-300; Entry Limit=10-300
+Data received
+Offer updates count 0
+Action=Insert Table=Order
+OrderID=257471276 OfferID=1 TradeID=125842746 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125300 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=IOC LifeTime=5.000000 Status=P StatusTime=06/17/2015 05:57:58 Type=OM NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-6 RequestTXT=TrueMarketOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Data received
+Offer updates count 1
+AUD/USD OfferID=6 Bid=0.772180 Ask=0.772200 Volume=237
+Action=Update Table=Offer
+AUD/USD OfferID=6 Bid=0.772180 Ask=0.772200 Low=0.771450 High=0.775900 Volume=237 QuoteID=FXCM-AUDUSD-6548819 Time=06/17/2015 05:57:58 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.690000 SellInterest=-1.530000
+Data received
+Offer updates count 1
+AUD/USD OfferID=6 Bid=0.772170 Ask=0.772200 Volume=240
+Action=Update Table=Offer
+AUD/USD OfferID=6 Bid=0.772170 Ask=0.772200 Low=0.771450 High=0.775900 Volume=240 QuoteID=FXCM-AUDUSD-6548843 Time=06/17/2015 05:57:58 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.690000 SellInterest=-1.530000
+Create order: OrderID=257471276
+Create order: OrderID=257471277
+Create order: OrderID=257471278
+Create order: OrderID=257471279
+Create order: OrderID=257471281
+Create order: OrderID=257471282
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-21 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20143: Order price too far from market price :1.12947 vs 1.12541
+
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-23 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20143: Order price too far from market price :1.13147 vs 1.12541
+
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-24 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20143: Order price too far from market price :1.13247 vs 1.12541
+
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-25 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20143: Order price too far from market price :1.13197 vs 1.12541
+
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-17 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20143: Order price too far from market price :1.13047 vs 1.12541
+
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-18 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20179: Unable to process order 257471292. Primary order is not found
+
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-19 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20179: Unable to process order 257471293. Primary order is not found
+
+Create order: OrderID=257471284
+Generic table
+0 TradeID 2
+1 AccountID 2
+2 AccountName 2
+3 AccountKind 2
+4 OfferID 2
+5 Amount 0
+6 BuySell 2
+7 OpenRate 1
+8 OpenTime 3
+9 OpenQuoteID 2
+10 OpenOrderID 2
+11 OpenOrderReqID 2
+12 OpenOrderRequestTXT 2
+13 Commission 1
+14 RolloverInterest 1
+15 TradeIDOrigin 2
+16 UsedMargin 0
+17 ValueDate 2
+18 Parties 2
+TradeID=125842198 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true OfferID=1 Valid=true Amount=2000 Valid=true BuySell=B Valid=true OpenRate=1.12553 Valid=true OpenTime=06/17/2015 05:39:47 Valid=true OpenQuoteID=Force Execute Valid=true OpenOrderID=257470336 Valid=true OpenOrderReqID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-6 Valid=true OpenOrderRequestTXT=TrueMarketOrder Valid=true Commission=0.08 Valid=true RolloverInterest=0 Valid=true TradeIDOrigin= Valid=true UsedMargin=48 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+TradeID=125842210 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true OfferID=1 Valid=true Amount=2000 Valid=true BuySell=B Valid=true OpenRate=1.12553 Valid=true OpenTime=06/17/2015 05:39:48 Valid=true OpenQuoteID=Force Execute Valid=true OpenOrderID=257470349 Valid=true OpenOrderReqID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-11 Valid=true OpenOrderRequestTXT=OpenRangeOrder Valid=true Commission=0.08 Valid=true RolloverInterest=0 Valid=true TradeIDOrigin= Valid=true UsedMargin=48 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+TradeID=125842376 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true OfferID=1 Valid=true Amount=2000 Valid=true BuySell=B Valid=true OpenRate=1.12553 Valid=true OpenTime=06/17/2015 05:47:29 Valid=true OpenQuoteID=Force Execute Valid=true OpenOrderID=257470609 Valid=true OpenOrderReqID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-6 Valid=true OpenOrderRequestTXT=TrueMarketOrder Valid=true Commission=0.08 Valid=true RolloverInterest=0 Valid=true TradeIDOrigin= Valid=true UsedMargin=48 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+TradeID=125842441 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true OfferID=1 Valid=true Amount=2000 Valid=true BuySell=B Valid=true OpenRate=1.12553 Valid=true OpenTime=06/17/2015 05:47:29 Valid=true OpenQuoteID=Force Execute Valid=true OpenOrderID=257470771 Valid=true OpenOrderReqID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-11 Valid=true OpenOrderRequestTXT=OpenRangeOrder Valid=true Commission=0.08 Valid=true RolloverInterest=0 Valid=true TradeIDOrigin= Valid=true UsedMargin=48 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+TradeID=125842218 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true OfferID=1 Valid=true Amount=2000 Valid=true BuySell=B Valid=true OpenRate=1.12561 Valid=true OpenTime=06/17/2015 05:40:24 Valid=true OpenQuoteID=Force Execute Valid=true OpenOrderID=257470360 Valid=true OpenOrderReqID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-6 Valid=true OpenOrderRequestTXT=TrueMarketOrder Valid=true Commission=0.08 Valid=true RolloverInterest=0 Valid=true TradeIDOrigin= Valid=true UsedMargin=48 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+TradeID=125842220 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true OfferID=1 Valid=true Amount=2000 Valid=true BuySell=B Valid=true OpenRate=1.12561 Valid=true OpenTime=06/17/2015 05:40:24 Valid=true OpenQuoteID=Force Execute Valid=true OpenOrderID=257470362 Valid=true OpenOrderReqID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-10 Valid=true OpenOrderRequestTXT=OpenMarketOrder Valid=true Commission=0.08 Valid=true RolloverInterest=0 Valid=true TradeIDOrigin= Valid=true UsedMargin=48 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+TradeID=125842230 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true AccountKind=32 Valid=true OfferID=1 Valid=true Amount=2000 Valid=true BuySell=B Valid=true OpenRate=1.12561 Valid=true OpenTime=06/17/2015 05:40:24 Valid=true OpenQuoteID=Force Execute Valid=true OpenOrderID=257470373 Valid=true OpenOrderReqID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-11 Valid=true OpenOrderRequestTXT=OpenRangeOrder Valid=true Commission=0.08 Valid=true RolloverInterest=0 Valid=true TradeIDOrigin= Valid=true UsedMargin=48 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+TradeID =125842198 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125530 OpenOrderID=257470336 OpenOrderReqID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-6 RequestTXT=TrueMarketOrder QuoteID=Force Execute Time=06/17/2015 05:39:47 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+TradeID =125842210 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125530 OpenOrderID=257470349 OpenOrderReqID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-11 RequestTXT=OpenRangeOrder QuoteID=Force Execute Time=06/17/2015 05:39:48 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+TradeID =125842376 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125530 OpenOrderID=257470609 OpenOrderReqID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-6 RequestTXT=TrueMarketOrder QuoteID=Force Execute Time=06/17/2015 05:47:29 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+TradeID =125842441 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125530 OpenOrderID=257470771 OpenOrderReqID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-11 RequestTXT=OpenRangeOrder QuoteID=Force Execute Time=06/17/2015 05:47:29 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+TradeID =125842218 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125610 OpenOrderID=257470360 OpenOrderReqID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-6 RequestTXT=TrueMarketOrder QuoteID=Force Execute Time=06/17/2015 05:40:24 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+TradeID =125842220 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125610 OpenOrderID=257470362 OpenOrderReqID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-10 RequestTXT=OpenMarketOrder QuoteID=Force Execute Time=06/17/2015 05:40:24 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+TradeID =125842230 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125610 OpenOrderID=257470373 OpenOrderReqID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-11 RequestTXT=OpenRangeOrder QuoteID=Force Execute Time=06/17/2015 05:40:24 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+Date=06/17/2015 01:53:41,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:41,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:41,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:43,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:43,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:48,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:48,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125490
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125490
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125490
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:53:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:53:51,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:51,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:55,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:53:55,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:53:55,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:53:56,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:53:56,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:56,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:56,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:53:56,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:53:56,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125420AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125420AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125490
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:53:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:05,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125490
+Date=06/17/2015 01:54:05,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:06,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:12,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:12,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:13,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:16,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:21,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:21,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125480AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:21,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:25,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125480AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:25,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125480AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125530
+Date=06/17/2015 01:54:25,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125480AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:25,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125480AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125530
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125490AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125530
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125510AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125530
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125510AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125540
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125490AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125540
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125500AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125540
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125500AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125530
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125480AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125530
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125480AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:31,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125520
+Date=06/17/2015 01:54:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:48,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:48,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:48,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125470AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125510
+Date=06/17/2015 01:54:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125460AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125500
+Date=06/17/2015 01:54:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125490
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125420AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Data received
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:54:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:54:55,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:54:55,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:54:56,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:55:02,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:55:02,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:55:02,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:55:02,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:55:02,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:15,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:15,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:16,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125350AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125350AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:17,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:21,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:21,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:55:23,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:23,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:24,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:24,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:25,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125350AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125350AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125350AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:55:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:55:38,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:55:39,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:55:39,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125350AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:55:40,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125420AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:55:41,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125420AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:55:41,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:55:41,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:55:41,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:55:42,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:42,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:42,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:42,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:42,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:44,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125450AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:46,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:50,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125440AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:55:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:55:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:55:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:55:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:55:53,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125480
+Date=06/17/2015 01:55:57,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125470
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125460
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125430AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125420AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125410AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125450
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125400AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125440
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125390AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125380AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125430
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125420
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:56:07,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:56:08,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125410
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125370AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125360AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125350AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125400
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125390
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125340AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:56:09,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:56:10,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:56:10,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:11,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:12,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:56:15,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:22,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125380
+Date=06/17/2015 01:56:24,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:24,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:24,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:24,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:56:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:56:31,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:31,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125330AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:39,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:43,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125370
+Date=06/17/2015 01:56:45,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:48,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:56:52,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:56:58,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:57:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:57:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:57:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:57:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:03,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:57:04,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125360
+Date=06/17/2015 01:57:05,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:05,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:05,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:05,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:16,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125280AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:19,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:19,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:57:19,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:19,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:21,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:57:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:57:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:26,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:32,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125320AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125350
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125310AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125340
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125300AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125330
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125290AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125320
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125320
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125310
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125260AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125310
+Date=06/17/2015 01:57:35,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125310
+Date=06/17/2015 01:57:48,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125280AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125310
+Date=06/17/2015 01:57:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125310
+Date=06/17/2015 01:57:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125300
+Date=06/17/2015 01:57:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125310
+Date=06/17/2015 01:57:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125300
+Date=06/17/2015 01:57:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125260AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125300
+Date=06/17/2015 01:57:49,BidOpen=1.124700,BidHigh=1.126710,BidLow=1.123850,BidClose=1.125270AskOpen=1.124820,AskHigh=1.126730,AskLow=1.123900,AskClose=1.125300
+LastMinute=01:57:58 Volume=0
+Generic table
+0 OrderID 2
+1 RequestID 2
+2 Rate 1
+3 ExecutionRate 1
+4 RateMin 1
+5 RateMax 1
+6 TradeID 2
+7 AccountID 2
+8 AccountName 2
+9 OfferID 2
+10 NetQuantity 4
+11 BuySell 2
+12 Stage 2
+13 Type 2
+14 Status 2
+15 StatusTime 3
+16 Amount 0
+17 Lifetime 1
+18 AtMarket 1
+19 TrailStep 0
+20 TrailRate 1
+21 TimeInForce 2
+22 AccountKind 2
+23 RequestTXT 2
+24 ContingentOrderID 2
+25 ContingencyType 0
+26 PrimaryID 2
+27 OriginAmount 0
+28 FilledAmount 0
+29 WorkingIndicator 4
+30 PegType 2
+31 PegOffset 1
+32 ExpireDate 3
+33 ValueDate 2
+34 Parties 2
+OrderID=257470361 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-8 Valid=true Rate=1.13557 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842219 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:24 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470363 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-13 Valid=true Rate=1.12511 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842221 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:24 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N1 Valid=true ContingentOrderID=257470364 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470492 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-9 Valid=true Rate=0 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842381 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:48 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrderWithStopLimit Valid=true ContingentOrderID=257470353 Valid=true ContingencyType=3 Valid=true PrimaryID=257470353 Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=false Valid=true PegType=1 Valid=true PegOffset=-10 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470493 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-9 Valid=true Rate=0 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842382 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:48 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrderWithStopLimit Valid=true ContingentOrderID=257470353 Valid=true ContingencyType=3 Valid=true PrimaryID=257470353 Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=false Valid=true PegType=0 Valid=true PegOffset=10 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470365 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-14 Valid=true Rate=1.12511 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842222 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:24 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N2 Valid=true ContingentOrderID=257470364 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470366 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-15 Valid=true Rate=1.12511 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842223 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:24 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N3 Valid=true ContingentOrderID=257470364 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470353 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-33 Valid=true Rate=1.07052 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842212 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:48 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=EditOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470610 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-8 Valid=true Rate=1.13538 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842377 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:29 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470612 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-13 Valid=true Rate=1.12491 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842379 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:29 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N1 Valid=true ContingentOrderID=257470613 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470614 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-14 Valid=true Rate=1.12491 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842433 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:29 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N2 Valid=true ContingentOrderID=257470613 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470615 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-15 Valid=true Rate=1.12491 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842434 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:29 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N3 Valid=true ContingentOrderID=257470613 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470344 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-22 Valid=true Rate=1.11952 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842205 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:48 Valid=true Amount=10000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=FXTC Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=10000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470348 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-7 Valid=true Rate=1.13552 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842209 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:48 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=StopEntryOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470337 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-8 Valid=true Rate=1.13547 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842199 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:47 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470339 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-13 Valid=true Rate=1.12502 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842201 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:47 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N1 Valid=true ContingentOrderID=257470340 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470341 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-14 Valid=true Rate=1.12502 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842202 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:47 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N2 Valid=true ContingentOrderID=257470340 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470342 Valid=true RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-15 Valid=true Rate=1.12502 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842203 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:39:47 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N3 Valid=true ContingentOrderID=257470340 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470904 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-9 Valid=true Rate=0 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842547 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:30 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrderWithStopLimit Valid=true ContingentOrderID=257470775 Valid=true ContingencyType=3 Valid=true PrimaryID=257470775 Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=false Valid=true PegType=1 Valid=true PegOffset=-10 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470905 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-9 Valid=true Rate=0 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842548 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:30 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrderWithStopLimit Valid=true ContingentOrderID=257470775 Valid=true ContingencyType=3 Valid=true PrimaryID=257470775 Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=false Valid=true PegType=0 Valid=true PegOffset=10 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470512 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-9 Valid=true Rate=0 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842385 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:25 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrderWithStopLimit Valid=true ContingentOrderID=257470377 Valid=true ContingencyType=3 Valid=true PrimaryID=257470377 Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=false Valid=true PegType=1 Valid=true PegOffset=-10 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470513 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-9 Valid=true Rate=0 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842386 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:25 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrderWithStopLimit Valid=true ContingentOrderID=257470377 Valid=true ContingencyType=3 Valid=true PrimaryID=257470377 Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=false Valid=true PegType=0 Valid=true PegOffset=10 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257471281 Valid=true RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-14 Valid=true Rate=1.12486 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842750 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:57:58 Valid=true Amount=2000 Valid=true Lifetime=5 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N2 Valid=true ContingentOrderID=257471280 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470770 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-7 Valid=true Rate=1.13541 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842440 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:29 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=StopEntryOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257471282 Valid=true RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-15 Valid=true Rate=1.12486 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842751 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:57:58 Valid=true Amount=2000 Valid=true Lifetime=5 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N3 Valid=true ContingentOrderID=257471280 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257471284 Valid=true RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-22 Valid=true Rate=1.11936 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842753 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:57:58 Valid=true Amount=10000 Valid=true Lifetime=5 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=FXTC Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=10000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470775 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-33 Valid=true Rate=1.07041 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842443 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:30 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=EditOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470377 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-32 Valid=true Rate=1.07061 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842232 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:25 Valid=true Amount=5000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=EditOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=5000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257471277 Valid=true RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-8 Valid=true Rate=1.13531 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842747 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:57:58 Valid=true Amount=2000 Valid=true Lifetime=5 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=LimitEntryOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470766 Valid=true RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-22 Valid=true Rate=1.11941 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842436 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:47:29 Valid=true Amount=10000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=FXTC Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=10000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257471278 Valid=true RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-10 Valid=true Rate=1.12536 Valid=true ExecutionRate=1.1253 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842748 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=OL Valid=true Status=E Valid=true StatusTime=06/17/2015 05:57:58 Valid=true Amount=2000 Valid=true Lifetime=5 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=IOC Valid=true AccountKind=32 Valid=true RequestTXT=OpenMarketOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257471279 Valid=true RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-13 Valid=true Rate=1.12486 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842749 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=LE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:57:58 Valid=true Amount=2000 Valid=true Lifetime=5 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=OCO_LimitEntry_N1 Valid=true ContingentOrderID=257471280 Valid=true ContingencyType=1 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470368 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-22 Valid=true Rate=1.11961 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842225 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=S Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:24 Valid=true Amount=10000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=FXTC Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=10000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470372 Valid=true RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-7 Valid=true Rate=1.13561 Valid=true ExecutionRate=0 Valid=true RateMin=0 Valid=true RateMax=0 Valid=true TradeID=125842229 Valid=true AccountID=2809169 Valid=true AccountName=02809169 Valid=true OfferID=1 Valid=true NetQuantity=false Valid=true BuySell=B Valid=true Stage=O Valid=true Type=SE Valid=true Status=W Valid=true StatusTime=06/17/2015 05:40:24 Valid=true Amount=2000 Valid=true Lifetime=0 Valid=true AtMarket=0 Valid=true TrailStep=0 Valid=true TrailRate=0 Valid=true TimeInForce=GTC Valid=true AccountKind=32 Valid=true RequestTXT=StopEntryOrder Valid=true ContingentOrderID= Valid=true ContingencyType=0 Valid=true PrimaryID= Valid=true OriginAmount=2000 Valid=true FilledAmount=0 Valid=true WorkingIndicator=true Valid=true PegType= Valid=true PegOffset=0 Valid=true ExpireDate=12/30/1899 00:00:00 Valid=true ValueDate= Valid=true Parties=[fxcm.com,C,13,o2g2,4] Valid=true 
+OrderID=257470361 OfferID=1 TradeID=125842219 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=S Rate=1.135570 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:24 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-8 RequestTXT=LimitEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470363 OfferID=1 TradeID=125842221 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125110 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:24 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470364 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-13 RequestTXT=OCO_LimitEntry_N1 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470492 OfferID=1 TradeID=125842381 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:48 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=1 PegOffset=-10.000000 ContingentOrderID=257470353 WorkingIndicator=false ContingencyType=3 PrimaryID=257470353 OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470493 OfferID=1 TradeID=125842382 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:48 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=0 PegOffset=10.000000 ContingentOrderID=257470353 WorkingIndicator=false ContingencyType=3 PrimaryID=257470353 OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470365 OfferID=1 TradeID=125842222 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125110 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:24 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470364 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-14 RequestTXT=OCO_LimitEntry_N2 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470366 OfferID=1 TradeID=125842223 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125110 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:24 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470364 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-15 RequestTXT=OCO_LimitEntry_N3 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470353 OfferID=1 TradeID=125842212 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=B Rate=1.070520 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:48 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-33 RequestTXT=EditOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470610 OfferID=1 TradeID=125842377 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=S Rate=1.135380 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:29 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-8 RequestTXT=LimitEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470612 OfferID=1 TradeID=125842379 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124910 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:29 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470613 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-13 RequestTXT=OCO_LimitEntry_N1 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470614 OfferID=1 TradeID=125842433 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124910 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:29 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470613 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-14 RequestTXT=OCO_LimitEntry_N2 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470615 OfferID=1 TradeID=125842434 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124910 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:29 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470613 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-15 RequestTXT=OCO_LimitEntry_N3 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470344 OfferID=1 TradeID=125842205 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=10000 BuySell=S Rate=1.119520 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:48 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=10000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-22 RequestTXT=FXTC ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470348 OfferID=1 TradeID=125842209 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.135520 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:48 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-7 RequestTXT=StopEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470337 OfferID=1 TradeID=125842199 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=S Rate=1.135470 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:47 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-8 RequestTXT=LimitEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470339 OfferID=1 TradeID=125842201 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125020 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:47 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470340 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-13 RequestTXT=OCO_LimitEntry_N1 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470341 OfferID=1 TradeID=125842202 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125020 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:47 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470340 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-14 RequestTXT=OCO_LimitEntry_N2 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470342 OfferID=1 TradeID=125842203 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125020 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:39:47 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257470340 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9B617F28B484E053242B3C0A128F_06172015053946716696_C5J-15 RequestTXT=OCO_LimitEntry_N3 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470904 OfferID=1 TradeID=125842547 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:30 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=1 PegOffset=-10.000000 ContingentOrderID=257470775 WorkingIndicator=false ContingencyType=3 PrimaryID=257470775 OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470905 OfferID=1 TradeID=125842548 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:30 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=0 PegOffset=10.000000 ContingentOrderID=257470775 WorkingIndicator=false ContingencyType=3 PrimaryID=257470775 OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470512 OfferID=1 TradeID=125842385 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:25 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=1 PegOffset=-10.000000 ContingentOrderID=257470377 WorkingIndicator=false ContingencyType=3 PrimaryID=257470377 OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470513 OfferID=1 TradeID=125842386 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:25 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=0 PegOffset=10.000000 ContingentOrderID=257470377 WorkingIndicator=false ContingencyType=3 PrimaryID=257470377 OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257471281 OfferID=1 TradeID=125842750 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124860 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257471280 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-14 RequestTXT=OCO_LimitEntry_N2 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470770 OfferID=1 TradeID=125842440 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.135410 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:29 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-7 RequestTXT=StopEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257471282 OfferID=1 TradeID=125842751 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124860 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257471280 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-15 RequestTXT=OCO_LimitEntry_N3 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257471284 OfferID=1 TradeID=125842753 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=10000 BuySell=S Rate=1.119360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=10000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-22 RequestTXT=FXTC ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470775 OfferID=1 TradeID=125842443 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=B Rate=1.070410 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:30 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-33 RequestTXT=EditOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470377 OfferID=1 TradeID=125842232 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=5000 BuySell=B Rate=1.070610 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:25 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=5000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-32 RequestTXT=EditOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257471277 OfferID=1 TradeID=125842747 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=S Rate=1.135310 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-8 RequestTXT=LimitEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470766 OfferID=1 TradeID=125842436 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=10000 BuySell=S Rate=1.119410 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:47:29 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=10000 FilledAmount=0 RequestID=U100D3_18AE9EE681B76180E053242B3C0AB10F_06172015054728437218_CHX-22 RequestTXT=FXTC ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257471278 OfferID=1 TradeID=125842748 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=1.125300 TimeInForce=IOC LifeTime=5.000000 Status=E StatusTime=06/17/2015 05:57:58 Type=OL NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-10 RequestTXT=OpenMarketOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257471279 OfferID=1 TradeID=125842749 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124860 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257471280 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-13 RequestTXT=OCO_LimitEntry_N1 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470368 OfferID=1 TradeID=125842225 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=10000 BuySell=S Rate=1.119610 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:24 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=10000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-22 RequestTXT=FXTC ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+OrderID=257470372 OfferID=1 TradeID=125842229 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.135610 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:40:24 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18AF9FFE6976B480E053242B3C0AD64D_06172015054022970652_OR5-7 RequestTXT=StopEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Create order: OrderID=257471288
+Create order: OrderID=257471289
+Generic table
+0 TradeID 2
+1 AccountID 2
+2 AccountName 2
+3 AccountKind 2
+4 OfferID 2
+5 Amount 0
+6 BuySell 2
+7 GrossPL 1
+8 Commission 1
+9 RolloverInterest 1
+10 OpenRate 1
+11 OpenQuoteID 2
+12 OpenTime 3
+13 OpenOrderID 2
+14 OpenOrderReqID 2
+15 OpenOrderRequestTXT 2
+16 OpenOrderParties 2
+17 CloseRate 1
+18 CloseQuoteID 2
+19 CloseTime 3
+20 CloseOrderID 2
+21 CloseOrderReqID 2
+22 CloseOrderRequestTXT 2
+23 CloseOrderParties 2
+24 TradeIDOrigin 2
+25 TradeIDRemain 2
+26 ValueDate 2
+Offer updates count 0
+Action=Update Table=Order
+OrderID=257471276 OfferID=1 TradeID=125842746 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125300 RateMin=0.000000 RateMax=0.000000 ExecutionRate=1.125300 TimeInForce=IOC LifeTime=5.000000 Status=E StatusTime=06/17/2015 05:57:58 Type=OM NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-6 RequestTXT=TrueMarketOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471277 OfferID=1 TradeID=125842747 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=S Rate=1.135310 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-8 RequestTXT=LimitEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471278 OfferID=1 TradeID=125842748 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=IOC LifeTime=5.000000 Status=P StatusTime=06/17/2015 05:57:58 Type=OL NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-10 RequestTXT=OpenMarketOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Update Table=Order
+OrderID=257471278 OfferID=1 TradeID=125842748 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=1.125300 TimeInForce=IOC LifeTime=5.000000 Status=E StatusTime=06/17/2015 05:57:58 Type=OL NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-10 RequestTXT=OpenMarketOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471279 OfferID=1 TradeID=125842749 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124860 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257471280 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-13 RequestTXT=OCO_LimitEntry_N1 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471281 OfferID=1 TradeID=125842750 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124860 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257471280 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-14 RequestTXT=OCO_LimitEntry_N2 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471282 OfferID=1 TradeID=125842751 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.124860 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID=257471280 WorkingIndicator=true ContingencyType=1 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-15 RequestTXT=OCO_LimitEntry_N3 ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471284 OfferID=1 TradeID=125842753 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=10000 BuySell=S Rate=1.119360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=10000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-22 RequestTXT=FXTC ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Trade
+TradeID =125842746 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125300 OpenOrderID=257471276 OpenOrderReqID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-6 RequestTXT=TrueMarketOrder QuoteID=Force Execute Time=06/17/2015 05:57:58 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+Action=Update Table=Account
+AccountID=2809169 AccountName=02809169 AccountKind=32 AccountLimit=0 Balance=49999.440000 NonTradableEquity=0.000000 M2MEquity=50000.000000 UsedMargin=384.000000 UsedMargin3=384.000000 MarginCallFlag=N LastMarginCallDate=12/30/1899 00:00:00 MainteanceType=F AmountLimit=0 MaintenanceFlag=false BaseUnitSize=1000 LevarageProfileID=181 ManagerAccountID=
+Action=Update Table=Account
+AccountID=2809169 AccountName=02809169 AccountKind=32 AccountLimit=0 Balance=49999.360000 NonTradableEquity=0.000000 M2MEquity=50000.000000 UsedMargin=384.000000 UsedMargin3=384.000000 MarginCallFlag=N LastMarginCallDate=12/30/1899 00:00:00 MainteanceType=F AmountLimit=0 MaintenanceFlag=false BaseUnitSize=1000 LevarageProfileID=181 ManagerAccountID=
+Action=Delete Table=Order
+OrderID=257471276 OfferID=1 TradeID=125842746 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=0 BuySell=B Rate=1.125300 RateMin=0.000000 RateMax=0.000000 ExecutionRate=1.125300 TimeInForce=IOC LifeTime=5.000000 Status=F StatusTime=06/17/2015 05:57:58 Type=OM NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=2000 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-6 RequestTXT=TrueMarketOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471288 OfferID=1 TradeID=125842757 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.135360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-7 RequestTXT=StopEntryOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471289 OfferID=1 TradeID=125842758 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125300 RateMin=1.124360 RateMax=1.126360 ExecutionRate=0.000000 TimeInForce=IOC LifeTime=5.000000 Status=P StatusTime=06/17/2015 05:57:58 Type=OR NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-11 RequestTXT=OpenRangeOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Update Table=Order
+OrderID=257471289 OfferID=1 TradeID=125842758 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.125300 RateMin=1.124360 RateMax=1.126360 ExecutionRate=1.125300 TimeInForce=IOC LifeTime=5.000000 Status=E StatusTime=06/17/2015 05:57:58 Type=OR NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-11 RequestTXT=OpenRangeOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Trade
+TradeID =125842748 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125300 OpenOrderID=257471278 OpenOrderReqID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-10 RequestTXT=OpenMarketOrder QuoteID=Force Execute Time=06/17/2015 05:57:58 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+Action=Update Table=Account
+AccountID=2809169 AccountName=02809169 AccountKind=32 AccountLimit=0 Balance=49999.360000 NonTradableEquity=0.000000 M2MEquity=50000.000000 UsedMargin=432.000000 UsedMargin3=432.000000 MarginCallFlag=N LastMarginCallDate=12/30/1899 00:00:00 MainteanceType=F AmountLimit=0 MaintenanceFlag=false BaseUnitSize=1000 LevarageProfileID=181 ManagerAccountID=
+Action=Update Table=Account
+AccountID=2809169 AccountName=02809169 AccountKind=32 AccountLimit=0 Balance=49999.280000 NonTradableEquity=0.000000 M2MEquity=50000.000000 UsedMargin=432.000000 UsedMargin3=432.000000 MarginCallFlag=N LastMarginCallDate=12/30/1899 00:00:00 MainteanceType=F AmountLimit=0 MaintenanceFlag=false BaseUnitSize=1000 LevarageProfileID=181 ManagerAccountID=
+Action=Delete Table=Order
+OrderID=257471278 OfferID=1 TradeID=125842748 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=0 BuySell=B Rate=1.125360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=1.125300 TimeInForce=IOC LifeTime=5.000000 Status=F StatusTime=06/17/2015 05:57:58 Type=OL NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=2000 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-10 RequestTXT=OpenMarketOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Data received
+Offer updates count 1
+AUD/USD OfferID=6 Bid=0.772170 Ask=0.772200 Volume=244
+Action=Update Table=Offer
+AUD/USD OfferID=6 Bid=0.772170 Ask=0.772200 Low=0.771450 High=0.775900 Volume=244 QuoteID=FXCM-AUDUSD-6548871 Time=06/17/2015 05:57:59 BidTradable=T AskTradable=T ContractCurrency=AUD Digits=5 PointSize=0.000100 SubscriptionStatus=T TradingStatus=O InstrumentType=1 ContractMultiplier=1.000000 ValueDate=06192015 BuyInterest=0.690000 SellInterest=-1.530000
+Request failed requestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-31 error=Desc=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations
+
+Data received
+Create order: OrderID=257471294
+Offer updates count 0
+Action=Insert Table=Order
+OrderID=257471294 OfferID=1 TradeID=125842761 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=B Rate=1.075360 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=5.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Trade
+TradeID =125842758 OfferID=1 AccountID=2809169 AccountName=02809169 AccountKind=32 BuySell=B Commission=0.080000 RollInt=0.000000 Amount=2000 Open=1.125300 OpenOrderID=257471289 OpenOrderReqID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-11 RequestTXT=OpenRangeOrder QuoteID=Force Execute Time=06/17/2015 05:57:58 UsedMargin=48 TradeIDOrigin= Parties=[fxcm.com,C,13,o2g2,4]
+Action=Update Table=Account
+AccountID=2809169 AccountName=02809169 AccountKind=32 AccountLimit=0 Balance=49999.280000 NonTradableEquity=0.000000 M2MEquity=50000.000000 UsedMargin=480.000000 UsedMargin3=480.000000 MarginCallFlag=N LastMarginCallDate=12/30/1899 00:00:00 MainteanceType=F AmountLimit=0 MaintenanceFlag=false BaseUnitSize=1000 LevarageProfileID=181 ManagerAccountID=
+Action=Update Table=Account
+AccountID=2809169 AccountName=02809169 AccountKind=32 AccountLimit=0 Balance=49999.200000 NonTradableEquity=0.000000 M2MEquity=50000.000000 UsedMargin=480.000000 UsedMargin3=480.000000 MarginCallFlag=N LastMarginCallDate=12/30/1899 00:00:00 MainteanceType=F AmountLimit=0 MaintenanceFlag=false BaseUnitSize=1000 LevarageProfileID=181 ManagerAccountID=
+Action=Delete Table=Order
+OrderID=257471289 OfferID=1 TradeID=125842758 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=0 BuySell=B Rate=1.125300 RateMin=1.124360 RateMax=1.126360 ExecutionRate=1.125300 TimeInForce=IOC LifeTime=5.000000 Status=F StatusTime=06/17/2015 05:57:58 Type=OR NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType= PegOffset=0.000000 ContingentOrderID= WorkingIndicator=true ContingencyType=0 PrimaryID= OriginAmount=2000 FilledAmount=2000 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-11 RequestTXT=OpenRangeOrder ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471433 OfferID=1 TradeID=125842837 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=SE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=1 PegOffset=-10.000000 ContingentOrderID=257471294 WorkingIndicator=false ContingencyType=3 PrimaryID=257471294 OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Action=Insert Table=Order
+OrderID=257471434 OfferID=1 TradeID=125842838 AccountID=2809169 AccountName=02809169 AccountKind=32 Amount=2000 BuySell=S Rate=0.000000 RateMin=0.000000 RateMax=0.000000 ExecutionRate=0.000000 TimeInForce=GTC LifeTime=0.000000 Status=W StatusTime=06/17/2015 05:57:58 Type=LE NetQuantity=false TrailStep=0 TrailRate=0.000000 PegType=0 PegOffset=10.000000 ContingentOrderID=257471294 WorkingIndicator=false ContingencyType=3 PrimaryID=257471294 OriginAmount=2000 FilledAmount=0 RequestID=U100D3_18B1591506EB31EFE053242B3C0A2445_06172015055757120159_ZV1-9 RequestTXT=LimitEntryOrderWithStopLimit ExpireDate=[fxcm.com,C,13,o2g2,4] ValueDate=12/30/1899 00:00:00 Parties=
+Status: Disconnecting
+Status: Disconnected

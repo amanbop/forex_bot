@@ -1,0 +1,67 @@
+/*
+ * $Header:  O2GEnum.h$
+ *
+ * Copyright (c) 2010 Forex Capital Markets LLC.
+ * 32 Old Slip, 10th Floor, New York NY, 10005 USA
+ *
+ * THIS SOFTWARE IS THE CONFIDENTIAL AND PROPRIETARY INFORMATION OF
+ * FXCM, LLC. ("CONFIDENTIAL INFORMATION"). YOU SHALL NOT DISCLOSE
+ * SUCH CONFIDENTIAL INFORMATION AND SHALL USE IT ONLY IN ACCORDANCE
+ * WITH THE TERMS OF THE LICENSE AGREEMENT YOU ENTERED INTO WITH
+ * FXCM.
+ *
+ * File description:
+ *
+ * $History: $
+ * 2010/09/17  shma      file is initially created
+ */
+#pragma once
+
+typedef enum
+{
+    TableUnknown = - 1,
+    Offers = 0,
+    Accounts = 1,
+    Orders = 2,
+    Trades = 3,
+    ClosedTrades = 4,
+    Messages = 5
+} O2GTable;
+
+typedef enum
+{
+    ResponseUnknown = -1,
+    TablesUpdates = 0,
+    MarketDataSnapshot = 1,
+    GetAccounts = 2,
+    GetOffers = 3,
+    GetOrders = 4,
+    GetTrades = 5,
+    GetClosedTrades = 6,
+    GetMessages = 7,
+    CreateOrderResponse = 8,
+    GetSystemProperties = 9,
+    CommandResponse = 10,
+    GetAcctPropertiesResponse = 11,
+} O2GResponseType;
+
+typedef enum
+{
+    UpdateUnknown = - 1,
+    Insert = 0,
+    Delete = 1,
+    Update = 2
+} O2GTableUpdateType;
+
+typedef enum
+{
+    PermissionDisabled = 0,
+    PermissionEnabled = 1,
+    PermissionHidden = -2
+} O2GPermissionStatus;
+
+typedef enum
+{
+    MarketStatusOpen = 0,     //!< Trading is allowed.
+    MarketStatusClosed = 1,   //!< Trading is not allowed.
+} O2GMarketStatus;
